@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm really well-versed in web technolgies, especially JavaScript/Node/React and PHP and have experience with Ruby/Rails, Python and a bunchof the other tooling that makes everything work together.
+- I'm really well-versed in web technologies, especially JavaScript/Node/React and PHP, and have experience with Ruby/Rails, Python and a bunch of the other tooling that makes everything work together.
 
 - 👯 I’m looking to collaborate on full stack JS projects, particularly in the areas of language learning/motivation/tracking tools and applications
 

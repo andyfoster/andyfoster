@@ -6,8 +6,7 @@
 
 - 🌱 I’m currently learning Swift and iOS Development with [this awesome Udemy course](https://www.udemy.com/course/ios-13-app-development-bootcamp)
 
-- 📫 Reach me on Twitter: [@afstr](https://www.twitter.com/afstr) or email: andy@andyfoster.net
-
+- 📫 Reach me on Twitter: [@afstr](https://www.twitter.com/afstr) or email: andy(at)andyfoster(dot)net
 
 
 <!--

@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **iOS Development with [this awesome Udemy course](https://www.udemy.com/course/ios-13-app-development-bootcamp)**
 
 
-- 📫 How to reach me **andy@andyfoster.net**
+- 📫 How to reach me **andy (@t) andyfoster (d0t) net **
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

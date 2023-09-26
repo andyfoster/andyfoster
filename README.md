@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **full stack JS projects, particularly in the areas of language learning/motivation/tracking tools and applications**
 
-- 🌱 I’m currently learning **iOS Development with [this awesome Udemy course](https://www.udemy.com/course/ios-13-app-development-bootcamp)**
+- 🌱 I write about development and design at [GitForked]([https://www.udemy.com/course/ios-13-app-development-bootcamp](https://gitforked.com/))
 
 
 - 📫 How to reach me **andy (@t) andyfoster (d0t) net **
